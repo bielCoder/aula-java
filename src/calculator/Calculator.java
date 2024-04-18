@@ -1,6 +1,6 @@
 package calculator;
 
-public class PrimeiroPrograma {
+public class Calculator {
 
     static int x;
     static int y;
