@@ -1,4 +1,4 @@
-package meuprimeiroprograma;
+package calculator;
 
 public class PrimeiroPrograma {
 
